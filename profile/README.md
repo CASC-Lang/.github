@@ -1,4 +1,4 @@
-# CASC Programming Language Org
+# Yakou Programming Language Org
 
 <p align="center">
   <a href="https://discord.gg/hCJ9EmSTrw">
